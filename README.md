@@ -1,4 +1,4 @@
-# I take help from youtube by making this page!!!
+I take help from youtube for making this page!!!
 
 
 # Getting Started with Create React App
